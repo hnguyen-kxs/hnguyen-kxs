@@ -6,4 +6,4 @@
 REPORT ZKN_ABAPGIT.
 
 
-write: / 'Hello world1'.
+write: / 'Hello world2'.
